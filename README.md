@@ -3,6 +3,7 @@ US GAME VERSION
 
 Pressing "Continue" will take you to the "delete file" menu
 Pressing "Delete" will take you to the "load file" menu, the load menu is non-functional
+The delete menu does remain functional
 
 I AM NOT RESPONSIBLE FOR ANY ACCIDENTALLY DELETED FILES
 
