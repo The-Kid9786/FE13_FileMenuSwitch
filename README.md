@@ -8,9 +8,9 @@ I AM NOT RESPONSIBLE FOR ANY ACCIDENTALLY DELETED FILES
 
 the purpose of me making this is for me to better understand how FE13's menus function
 
-Applying the patch (in citra):
+# Applying the patch (in citra):
 
-plaace code.ips in the mods folder
+place code.ips in the mods folder
 
 the path should look like mods\00040000000A0500\code.ips
 
